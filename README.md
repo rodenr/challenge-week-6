@@ -52,7 +52,7 @@ fill-in-your-answer
 
 ![image](image.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+{Miami and Detroit have a decent size for sales while not very green for profit}
 
 ### 2 (5 points)
 
